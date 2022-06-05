@@ -13,6 +13,9 @@ top[옵션]을 입력하여 사용 (-b옵션 : 순간의 정보 확인, -n옵션
 
 -ps : ‘process status’의 약자로 현재 실행중인 프로세스 목록 확인
 
+![ka38_241_i1](https://user-images.githubusercontent.com/104884855/172055530-7a980fd9-85d8-4807-99a3-7dc7f936b5e0.jpeg)
+
+
 일정 주기를 합산하는 top과 다르게 ps는 ps 한 시점에 검색한 cpu 사용량을 출력
 
 ps -e (모든 프로세서 출력), ps -f (풀 포맷으로 출력) 
