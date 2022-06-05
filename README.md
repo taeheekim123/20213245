@@ -28,6 +28,9 @@ ps -e (모든 프로세서 출력), ps -f (풀 포맷으로 출력)
 jobs[옵션][job ID]
 Jobs -x command[args]
 
+![ka38_241_i1](https://user-images.githubusercontent.com/104884855/172055645-b3ca1888-312c-4f2a-a64c-e7d8c465ac39.jpeg)
+
+
 
 -kill : 프로세스 종료 명령어
 지정한 프로세스에 지정한 시그널을 보냄
