@@ -32,6 +32,8 @@ Jobs -x command[args]
 
 
 -kill : 프로세스 종료 명령어
+![ka38_154_i1](https://user-images.githubusercontent.com/104884855/172055909-f7a64fb7-3d07-4ef1-a036-3e57cfd4ba0e.jpeg)
+
 지정한 프로세스에 지정한 시그널을 보냄
 시스템에 문제가 생겨 해당 프로세스를 종료할 필요가 있을 경우 많이 사용
 kill [옵션 or 시그널] [프로세스 번호] 로 해당 프로세스를 종료
